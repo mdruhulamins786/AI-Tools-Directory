@@ -1,0 +1,88 @@
+
+
+[
+  {
+    "id": 1,
+    "name": "IngestAI",
+    "dec": "A tool that helps people turn their knowledge base into a chatbot-like assistant. The tool is compatible with",
+    "img": "../src/asset/",
+    "buttonText": "FREE"
+  },
+  {
+    "id": 2,
+    "name": "GPT3 Playground",
+    "dec": "Enter an instruction or select a preset, and watch the API respond with a completion that attempts to",
+    "img": "../src/asset/2.png",
+    "buttonText": "FREEMIUM"
+  },
+  {
+    "id": 3,
+    "name": "ChatGPT",
+    "dec": "ChatGPT: Optimizing Language Models for Dialogue. The dialogue format makes it possible for ChatGPT",
+    "img": "../src/asset/3.png",
+    "buttonText": "PAID"
+  },
+  {
+    "id": 4,
+    "name": "MarketingBlocks AI",
+    "dec": "All-In-One AI Marketing Assistant that writes, creates & designs all your landing pages, promo videos, ads...",
+    "img": "../src/asset/4.png",
+    "buttonText": "FREE"
+  },
+  {
+    "id": 5,
+    "name": "Durable",
+    "dec": "Get your business online in 30 seconds. The AI-powered platform for solo business owners. Generate a",
+    "img": "../src/asset/5.png",
+    "buttonText": "FREEMIUM"
+  },
+  {
+    "id": 6,
+    "name": "HoppyCopy",
+    "dec": "Write high-converting emails, 10x faster. Save countless hours writing. Use AI to generate powerful copy for",
+    "img": "../src/asset/6.png",
+    "buttonText": "PAID"
+  },
+  {
+    "id": 7,
+    "name": "Piggy To",
+    "dec": "Create an engaging and shareable webpage in seconds. By entering a prompt, the tool generates 7-10",
+    "img": "../src/asset/7.png",
+    "buttonText": "FREE"
+  },
+  {
+    "id": 8,
+    "name": "Cody",
+    "dec": "Cody is our solution to the limitations of ChatGPT. While ChatGPT is a powerful tool, we",
+    "img": "../src/asset/8.png",
+    "buttonText": "FREEMIUM"
+  },
+  {
+    "id": 9,
+    "name": "Magic Studio",
+    "dec": "Create stunning visuals in seconds with their AI image editing tools. Remove unwanted things, switch",
+    "img": "../src/asset/9.png",
+    "buttonText": "PAID"
+  },
+  {
+    "id": 10,
+    "name": "Dream Interpreter",
+    "dec": "A dream interpreter built with GPT-3. Ask it the meaning of your dream and it will interpret it for you, allowing you",
+    "img": "../src/asset/10.png",
+    "buttonText": "FREE"
+  },
+  {
+    "id": 11,
+    "name": "Namelix",
+    "dec": "Namelix will generate a short, brandable business name using artificial intelligence. Also great for",
+    "img": "../src/asset/11.png",
+    "buttonText": "FREEMIUM"
+  },
+  {
+    "id": 12,
+    "name": "Notion AI",
+    "dec": "Leverage the limitless power of AI in any Notion page. Write faster, think bigger, and augment creativity. Like...",
+    "img": "../src/asset/12.png",
+    "buttonText": "PAID"
+  }
+]
